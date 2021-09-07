@@ -2,6 +2,7 @@
 ## I'm Student, Developer and Teacher!
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
 
 
 - 🔭 I working on my self-development 💆‍🤯                                                          
