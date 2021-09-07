@@ -1,6 +1,6 @@
 ### Hi there, I'm H-b-IO-T-O-H 👋
-## - Who are you?
-## - I asked myself the same question. Am I the son of a panda? Son of a goose? Student? Teacher? And I - all this together. I am a computer programmer.🤖
+- Who are you?
+- I asked myself the same question. Am I the son of a panda? Son of a goose? Student? Teacher? And I - all this together. I am a computer programmer.🤖
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
