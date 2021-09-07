@@ -1,7 +1,7 @@
 ### Hi there, I'm H-b-IO-T-O-H 👋
 ## I'm Student, Developer and Teacher!
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 
 - 🔭 I working on my self-development 💆‍🤯
