@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 
-- 🔭 I working on my self-development 💆‍🤯                                                           ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+- 🔭 I working on my self-development 💆‍🤯                                                          
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Started working in Ozone
