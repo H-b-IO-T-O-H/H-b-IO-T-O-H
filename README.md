@@ -1,7 +1,7 @@
 ### Hi there, I'm H-b-IO-T-O-H 👋
 ## I'm Student, Developer and Teacher!
 
-- 🔭 I working on my self-development 💆‍
+- 🔭 I working on my self-development 💆‍🤯
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Started working in Ozone
