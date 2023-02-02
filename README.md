@@ -6,8 +6,8 @@
 - 🔭 I working on my self-development 💆‍🤯                                                          
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Started working in Ozone
-- ⚡ Fun fact: I love little hamsters
+- 🥅 2021 Goals: Started working in Ozon
+- ⚡ Important fact: I love cats
 
 ### Connect with me:
 
